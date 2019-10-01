@@ -606,6 +606,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -626,10 +628,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: c6ff7495-df72-4f77-8fcb-b9ca8a1dba2e
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: PictureViewer
+  organizationId: gbarre
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
